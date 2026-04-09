@@ -15,4 +15,11 @@ Focused on AI governance and tech policy.
 
 ## Articles
 - When the Court Said "Orwellian": The Pentagon-Anthropic Ruling and What It Reveals About AI Governance Under Political Pressure
-https://medium.com/@viacheslav.k.official/when-the-court-said-orwellian-the-pentagon-anthropic-ruling-and-what-it-reveals-about-ai-0d9f81959e97
+https://forum.effectivealtruism.org/posts/4YTFBahGjmQxZr4ag/when-the-court-said-orwellian-the-pentagon-anthropic-ruling
+## Responsible AI in Military Contexts: A Comparative Analysis
+
+### Part 1: Rules Without Enforcement: Military AI and the European Union
+https://forum.effectivealtruism.org/posts/q5KRzWFv3BadojcsX/rules-without-enforcement-military-ai-and-the-european-union
+
+### Part 2: Enforcement without experience: Military AI and China
+https://forum.effectivealtruism.org/posts/dj4guht9a4mXu4ijG/enforcement-without-experience-military-ai-and-china-or
