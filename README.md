@@ -1,4 +1,4 @@
-# AI-ethics-governance-portfolio
+# AI-governance-portfolio
 My research and projects in AI governance and international relationships
 # Viacheslav Kolodiazhnyi
 
